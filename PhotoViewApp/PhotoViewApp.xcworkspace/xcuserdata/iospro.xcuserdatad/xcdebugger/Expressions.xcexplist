@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #3 in SetupViewController.viewDidLoad():SetupViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result">
+            </PersistentString>
+            <PersistentString
+               value = "child">
+            </PersistentString>
+            <PersistentString
+               value = "child.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SetupViewController.viewDidLoad():SetupViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "child.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SetupViewController.viewWillAppear(_:):SetupViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "child.value">
+            </PersistentString>
+            <PersistentString
+               value = "(child.value as? [String:Any])?[&quot;time&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "child.description">
+            </PersistentString>
+            <PersistentString
+               value = "child.value.debugDescription">
+            </PersistentString>
+            <PersistentString
+               value = "(child.value as? String)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TimePickerViewController.timePicker_ValueChanged(_:):TimePickerViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "wakeuptime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoViewController.viewDidLoad():PhotoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Date()">
+            </PersistentString>
+            <PersistentString
+               value = "wakeupTime">
+            </PersistentString>
+            <PersistentString
+               value = "currentTime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
